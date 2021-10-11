@@ -1,2 +1,4 @@
 # machine-learning
-Python notebooks with models for competitions, etc.
+IAD homeworks
+Coursera homeworks
+Other notebooks

@@ -1,4 +1,4 @@
 # machine-learning
-IAD homeworks
-Coursera homeworks
-Other notebooks
+* IAD homeworks
+* Coursera homeworks
+* Other notebooks
